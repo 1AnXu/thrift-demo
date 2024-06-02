@@ -1,0 +1,4 @@
+server:
+  thrift:
+    port: 8899 #监听的端口
+    thread-pool: 100  #线程池线程数
